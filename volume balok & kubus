@@ -7,7 +7,7 @@ print("luas kubusnya adalah", volumekubus)
 #Volume balok
 print("menghitung volume balok")
 p = int(input("masukkan panjang balok ="))
-l = int(input("masukkan luas balok ="))
+l = int(input("masukkan lebar balok ="))
 t = int(input("masukkan tinggi balok ="))
 volumebalok = (p*l*t)
 print("volume baloknya adalah", volumebalok)
